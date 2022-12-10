@@ -9,13 +9,12 @@
   }
 
   body {
+    background-color: black;
     font-family: 'Raleway', sans-serif;
-    background-image: url("../images/Background.jpg");
     width: 100%;
     height: auto;
     background-repeat: no-repeat;
     background-size: cover;
-    background-color: #45b6eb;
     color: #fff;
     font-size: 1.2vw;
    }
